@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<customers>
+   <person id="person1">
+      <name>John</name>
+      <age>52</age>
+      <postcode>5002</postcode>
+   </person>
+   <person id="person2">
+      <name>Ye</name>
+      <age>18</age>
+      <postcode>3005</postcode>
+   </person>
+   <person id="person3">
+      <name>Siobhan</name>
+      <age>34</age>
+      <postcode>2356</postcode>
+   </person>
+</customers>

@@ -1,0 +1,7 @@
+An absolute path contains the entire path to the file or directory that we need to access. It includes the complete directory list required to locate the file.
+
+For example, E:\PYnative\files_demos\read_demo.txt is an absolute path to discover the read_demo.txt. All of the information needed to find the file is contained in the path string.
+
+While opening a file for reading its contents we have always ensured that we are providing the correct path. In case the file not present in the provided path we will get FileNotFoundError.
+
+We can avoid this by wrapping the file opening code in the try-except-finally block.hello
